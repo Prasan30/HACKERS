@@ -1,0 +1,50 @@
+UNSTOP Hackathon - Problem Statement:
+
+Title: Unlocking Urban Gems: Your Personalized City Exploration App
+
+Challenge: Design and develop a mobile app using HERE Location Services and Mobile SDKs that transforms the way tourists experience a city. 
+
+Goal: Create an immersive and interactive tourism app that goes beyond the typical city guides. Think beyond just landmarks and museums Your app should cater to diverse interests and uncover hidden gems, inspiring users to delve deeper into the city's unique character.
+
+Key Features:
+
+Personalized Guided Tours:
+     Design themed and flexible tours catering to different interests (history, art, food, etc.).
+     Utilize HERE Location Services for GPS-powered navigation and point-of-interest (POI) information.
+     Integrate augmented reality (AR) elements to overlay historical narratives and hidden details on live camera views.
+
+Engaging Historical Insights:
+     Offer rich storytelling elements like audio guides, historical photos, and interactive quizzes.
+     Leverage HERE historical map layers to showcase the city's evolution through time.
+     Encourage user-generated content by allowing locals and tourists to share their own stories and perspectives.
+
+Interactive Maps:
+     Develop customizable maps with multiple layers displaying points of interest, transportation options, and real-time events.
+     Implement HERE routing functionality to suggest optimized walking, cycling, or public transportation routes for efficient exploration.
+     Integrate gamification elements like collecting virtual badges or completing scavenger hunts to enhance engagement.
+
+Bonus Points:
+
+Multilingual support to cater to a global audience.
+Accessibility features for users with disabilities.
+Integration with local businesses for booking tickets, making reservations, or ordering food directly from the app.
+Social media sharing to allow users to share their experiences and recommendations with others.
+
+Judging Criteria:
+
+Creativity and innovation: Does the app offer a unique and engaging way to explore the city
+Functionality and usability: Is the app user-friendly and intuitive
+Technical implementation: Does the app effectively utilize HERE Location Services and Mobile SDKs
+Potential impact: Does the app have the potential to improve the tourism experience for a large audience
+
+Call to Action:
+
+Team up, unleash your creativity, and use HERE Location Services and Mobile SDKs to build a groundbreaking tourism app that makes every city an adventure! Remember, the future of urban exploration awaits your innovative minds!
+
+Additional Notes:
+
+ Feel free to choose any city in the world as your target location.
+ Focus on providing a comprehensive and personalized experience for tourists with diverse interests.
+ Don't hesitate to think outside the box and utilize HERE's rich data and tools to their full potential.
+
+
